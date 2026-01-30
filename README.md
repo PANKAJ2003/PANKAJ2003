@@ -38,10 +38,3 @@ I work across **Java + Spring Boot**, **React**, **Node.js**, **Docker**, **Kafk
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
-
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Pankaj2003&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Pankaj2003&theme=blue_navy&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj2003&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
